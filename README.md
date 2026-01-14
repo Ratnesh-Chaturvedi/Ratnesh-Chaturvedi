@@ -1,5 +1,4 @@
 Hi, I'm Ratnesh Chaturvedi 👋  
-[Khoding ](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N3Z1ZG15c2w2Ynhmb2F4OTh3d3g1MWM3dDczeXozYTFtYXEwbWhhYyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/s4ycVAVuJvXRvK0Rap/giphy.gif)
 I'm a 3rd-year B.Tech CSE student passionate about building modern, creative, and interactive web experiences.  
 
 I specialize in the MERN stack and love creating unique frontends using GSAP and Framer Motion. My focus is on crafting animated, engaging, and user-friendly interfaces that stand out.  
