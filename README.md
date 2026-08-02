@@ -1,5 +1,5 @@
 Hi, I'm Ratnesh Chaturvedi 👋  
-I'm a 3rd-year B.Tech CSE student passionate about building modern, creative, and interactive web experiences.  
+I'm a 4th-year B.Tech CSE student passionate about building modern, creative, and interactive web experiences.  
 
 I specialize in the MERN stack and love creating unique frontends using GSAP and Framer Motion. My focus is on crafting animated, engaging, and user-friendly interfaces that stand out.  
 
